@@ -8,3 +8,6 @@ def solution(A, B):
         if a == B[i]:
             return a
     return -1
+
+
+print (solution([1,24,6,3],[15,2,8,9]))
