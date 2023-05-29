@@ -10,4 +10,4 @@ def solution(A, B):
     return -1
 
 
-print (solution([1,24,6,3],[15,2,8,9]))
+print (solution([1,24,6,3],[1,2,8,9]))
